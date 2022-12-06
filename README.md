@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-No scoreboard yet, I'm working on it though
+Scoreboard added. Screenshot doesn't show it, though.
 
 Here's a screenshot:
 
